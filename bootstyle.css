@@ -1,0 +1,99 @@
+.nave{
+    margin-left:auto;
+}
+.nave-h{
+    color: white;
+    padding-left: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.nave-h{
+    color: rgb(40, 214, 40);
+    transform: scale(1.09)
+}
+.logo{
+    height: 70px;
+    padding-left: 20px;
+}
+.boot{
+    background-image: url('https://res.cloudinary.com/nihars3/image/upload/v1696232927/photo-1619429858348-2d5ad1547e6c_nnvynb.jpg');
+    background-size: cover;
+    height: auto;
+}
+.img{
+    height: 300px;
+    text-align: center;
+}
+.left-body {
+    padding-left: 200px;
+    color: white;
+    padding-top: 50px;
+    font-size: 25px;
+}
+.about{
+    padding-top: 100px;
+    text-align: center;
+    height: 80vh;
+}
+.cou-h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: white;
+}
+.cou-p{
+    padding-left: 100px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.pimg{
+    height:370px ;
+    padding:20px;
+    text-align: center;
+}
+.about-h{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+.cou-h{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.cou{
+    padding-left: 20px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: white;
+    margin:20px;
+}
+.course-card1{
+    border: 2px solid red;
+}
+.course-card2{
+    border: 2px solid red;
+}
+.course-card1:hover{
+    border: 2px solid blue;
+}
+.course-card2:hover{
+    border: 2px solid blue;
+}
+.social-icon{
+    height: 100px;
+    margin: 20px;
+    text-align: center;
+}
+.about-h1{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    padding-top: 30px;
+}
+.about-p{
+    color: white;
+    font-size: 20px;
+}
